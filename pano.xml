@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node10" hassounds="0" appversion="7.1.11" apprev="21010">
+  <panorama id="node10">
+    <input levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingroll="0" width="2000" levelingpitch="0" height="2000">
+      <level width="2000" preload="0" height="2000" predecode="0"/>
+      <level width="1000" preload="0" height="1000" predecode="0"/>
+      <level width="500" preload="1" height="500" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="198.209" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node10" comment="" author="" latitude="-23.40194704" tags="" streetviewlink="https://www.google.com/maps/@-23.401947,-51.9190901,3a,75y,198.21h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgICB2MmDZg!2e10" source="" title="Gela Boca | Alvorada" datetime="" heading="198.209" customnodeid="" copyright="" info="" longitude="-51.91909014"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" enabled="1" width="180" wordwrap="1" height="20" border="1" textalpha="1" borderalpha="1" borderradius="1" bordercolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-359.86" description="" id="Point01" distance="2.08968" skinid="ht_node" title="Gela Boca | Alvorada" target="0.0/0.0/117.0" url="{node11}" tilt="0.36"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendtime="1" blendcolor="0x000000" delay="none" enabled="1" type="crossdissolve" softedge="0" zoomoutpause="1" zoomout="0" zoomafteroutfov="40" zoomin="0" zoomspeed="2" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingroll="0" width="2000" levelingpitch="0" height="2000">
+      <level width="2000" preload="0" height="2000" predecode="0"/>
+      <level width="1000" preload="0" height="1000" predecode="0"/>
+      <level width="500" preload="1" height="500" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="197.94" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node11" comment="" author="" latitude="-23.40196457" tags="" streetviewlink="https://www.google.com/maps/@-23.4019646,-51.9190975,3a,75y,197.94h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgICB2MmD9gE!2e10" source="" title="Gela Boca | Alvorada" datetime="" heading="197.94" customnodeid="" copyright="" info="" longitude="-51.91909752"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" enabled="1" width="180" wordwrap="1" height="20" border="1" textalpha="1" borderalpha="1" borderradius="1" bordercolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-39.46" description="" id="Point01" distance="3.65998" skinid="ht_node" title="Gela Boca | Alvorada" target="0.0/0.0/100.0" url="{node4}" tilt="0.26"/>
+      <hotspot pan="-185.89" description="" id="Point02" distance="2.08968" skinid="ht_node" title="Gela Boca | Alvorada" target="176.0/0.0/108.2" url="{node10}" tilt="-0.17"/>
+      <hotspot pan="-335.25" description="" id="Point03" distance="3.768" skinid="ht_node" title="Gela Boca | Alvorada" target="37.0/0.0/108.2" url="{node3}" tilt="0.34"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendtime="1" blendcolor="0x000000" delay="none" enabled="1" type="crossdissolve" softedge="0" zoomoutpause="1" zoomout="0" zoomafteroutfov="40" zoomin="0" zoomspeed="2" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingroll="0" width="2250" levelingpitch="0" height="2250">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="197.347" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node4" comment="" author="" latitude="-23.40197227" tags="" streetviewlink="https://www.google.com/maps/@-23.4019723,-51.9191324,3a,75y,197.35h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgICB2MmjSg!2e10" source="" title="Gela Boca | Alvorada" datetime="" heading="197.347" customnodeid="" copyright="" info="" longitude="-51.91913239"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" enabled="1" width="180" wordwrap="1" height="20" border="1" textalpha="1" borderalpha="1" borderradius="1" bordercolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-0.2" description="" id="Point01" distance="8.7096" skinid="ht_node" title="Gela Boca | Alvorada" target="0.0/0.0/100.0" url="{node7}" tilt="-0.15"/>
+      <hotspot pan="-218.94" description="" id="Point02" distance="3.65998" skinid="ht_node" title="Gela Boca | Alvorada" target="174.0/0.0/108.2" url="{node11}" tilt="-0.15"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendtime="1" blendcolor="0x000000" delay="none" enabled="1" type="crossdissolve" softedge="0" zoomoutpause="1" zoomout="0" zoomafteroutfov="40" zoomin="0" zoomspeed="2" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingroll="0" width="2250" levelingpitch="0" height="2250">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="196.498" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node7" comment="" author="" latitude="-23.40204642" tags="" streetviewlink="https://www.google.com/maps/@-23.4020464,-51.9191599,3a,75y,196.5h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgICB2MnPxgE!2e10" source="" title="Gela Boca | Alvorada" datetime="" heading="196.498" customnodeid="" copyright="" info="" longitude="-51.91915989"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" enabled="1" width="180" wordwrap="1" height="20" border="1" textalpha="1" borderalpha="1" borderradius="1" bordercolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-0.3" description="" id="Point01" distance="11.1246" skinid="ht_node" title="Gela Boca | Alvorada" target="0.0/0.0/108.2" url="{node9}" tilt="0.35"/>
+      <hotspot pan="-183.07" description="" id="Point02" distance="8.7096" skinid="ht_node" title="Gela Boca | Alvorada" target="170.0/0.0/108.2" url="{node4}" tilt="-0.15"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendtime="1" blendcolor="0x000000" delay="none" enabled="1" type="crossdissolve" softedge="0" zoomoutpause="1" zoomout="0" zoomafteroutfov="40" zoomin="0" zoomspeed="2" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingroll="0" width="2000" levelingpitch="0" height="2000">
+      <level width="2000" preload="0" height="2000" predecode="0"/>
+      <level width="1000" preload="0" height="1000" predecode="0"/>
+      <level width="500" preload="1" height="500" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="198.91" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node9" comment="" author="" latitude="-23.40213965" tags="" streetviewlink="https://www.google.com/maps/@-23.4021396,-51.9191994,3a,75y,198.91h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgICB2MnzYQ!2e10" source="" title="Gela Boca | Alvorada" datetime="" heading="198.91" customnodeid="" copyright="" info="" longitude="-51.91919944"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" enabled="1" width="180" wordwrap="1" height="20" border="1" textalpha="1" borderalpha="1" borderradius="1" bordercolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-184.15" description="" id="Point01" distance="11.1246" skinid="ht_node" title="Gela Boca | Alvorada" target="179.0/0.0/100.0" url="{node7}" tilt="-0.51"/>
+      <hotspot pan="-255.12" description="" id="Point02" distance="4.56322" skinid="ht_node" title="Gela Boca | Alvorada" target="-54.0/0.0/108.2" url="{node8}" tilt="-0.32"/>
+      <hotspot pan="-305.8" description="" id="Point03" distance="4.94505" skinid="ht_node" title="Gela Boca | Alvorada" target="55.0/0.0/100.0" url="{node5}" tilt="-0.34"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendtime="1" blendcolor="0x000000" delay="none" enabled="1" type="crossdissolve" softedge="0" zoomoutpause="1" zoomout="0" zoomafteroutfov="40" zoomin="0" zoomspeed="2" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingroll="0" width="2000" levelingpitch="0" height="2000">
+      <level width="2000" preload="0" height="2000" predecode="0"/>
+      <level width="1000" preload="0" height="1000" predecode="0"/>
+      <level width="500" preload="1" height="500" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="15.8721" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node8" comment="" author="" latitude="-23.40212304" tags="" streetviewlink="https://www.google.com/maps/@-23.402123,-51.9191585,3a,75y,15.87h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgICB2MmPDQ!2e10" source="" title="Gela Boca | Alvorada" datetime="" heading="15.8721" customnodeid="" copyright="" info="" longitude="-51.91915855"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" enabled="1" width="180" wordwrap="1" height="20" border="1" textalpha="1" borderalpha="1" borderradius="1" bordercolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-2.08" description="" id="Point01" distance="13.5902" skinid="ht_node" title="Gela Boca | Alvorada" target="0.0/0.0/117.0" url="{node6}" tilt="0.51"/>
+      <hotspot pan="-229.29" description="" id="Point02" distance="4.56322" skinid="ht_node" title="Gela Boca | Alvorada" target="-55.0/0.0/108.2" url="{node9}" tilt="-0.37"/>
+      <hotspot pan="-153.47" description="" id="Point03" distance="3.14008" skinid="ht_node" title="Gela Boca | Alvorada" target="23.0/0.0/108.2" url="{node5}" tilt="0.05"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendtime="1" blendcolor="0x000000" delay="none" enabled="1" type="crossdissolve" softedge="0" zoomoutpause="1" zoomout="0" zoomafteroutfov="40" zoomin="0" zoomspeed="2" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingroll="0" width="2000" levelingpitch="0" height="2000">
+      <level width="2000" preload="0" height="2000" predecode="0"/>
+      <level width="1000" preload="0" height="1000" predecode="0"/>
+      <level width="500" preload="1" height="500" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="198.448" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node3" comment="" author="" latitude="-23.40199073" tags="" streetviewlink="https://www.google.com/maps/@-23.4019907,-51.919074,3a,75y,198.45h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgICB2KnkfQ!2e10" source="" title="Gela Boca | Alvorada" datetime="" heading="198.448" customnodeid="" copyright="" info="" longitude="-51.91907405"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" enabled="1" width="180" wordwrap="1" height="20" border="1" textalpha="1" borderalpha="1" borderradius="1" bordercolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-146.35" description="" id="Point01" distance="3.768" skinid="ht_node" title="Gela Boca | Alvorada" target="-148.0/0.0/117.0" url="{node11}" tilt="0.4"/>
+      <hotspot pan="-0.39" description="" id="Point02" distance="14.1843" skinid="ht_node" title="Gela Boca | Alvorada" target="0.0/0.0/126.6" url="{node1}" tilt="-0.17"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendtime="1" blendcolor="0x000000" delay="none" enabled="1" type="crossdissolve" softedge="0" zoomoutpause="1" zoomout="0" zoomafteroutfov="40" zoomin="0" zoomspeed="2" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingroll="0" width="2250" levelingpitch="0" height="2250">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="2.3499" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node6" comment="" author="" latitude="-23.40200673" tags="" streetviewlink="https://www.google.com/maps/@-23.4020067,-51.9191176,3a,75y,2.35h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgICB2KmwOg!2e10" source="" title="Gela Boca | Alvorada" datetime="" heading="2.3499" customnodeid="" copyright="" info="" longitude="-51.91911764"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" enabled="1" width="180" wordwrap="1" height="20" border="1" textalpha="1" borderalpha="1" borderradius="1" bordercolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-180.4" description="" id="Point01" distance="13.5902" skinid="ht_node" title="Gela Boca | Alvorada" target="-179.0/0.0/100.0" url="{node8}" tilt="-0.34"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendtime="1" blendcolor="0x000000" delay="none" enabled="1" type="crossdissolve" softedge="0" zoomoutpause="1" zoomout="0" zoomafteroutfov="40" zoomin="0" zoomspeed="2" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingroll="0" width="2250" levelingpitch="0" height="2250">
+      <level width="2250" preload="0" height="2250" predecode="0"/>
+      <level width="1125" preload="0" height="1125" predecode="0"/>
+      <level width="562" preload="0" height="562" predecode="0"/>
+      <level width="281" preload="1" height="281" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="200.281" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node5" comment="" author="" latitude="-23.40215073" tags="" streetviewlink="https://www.google.com/maps/@-23.4021507,-51.9191525,3a,75y,200.28h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgICB2Kn0rQE!2e10" source="" title="Gela Boca | Alvorada" datetime="" heading="200.281" customnodeid="" copyright="" info="" longitude="-51.91915251"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" enabled="1" width="180" wordwrap="1" height="20" border="1" textalpha="1" borderalpha="1" borderradius="1" bordercolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-96.44" description="" id="Point01" distance="4.94505" skinid="ht_node" title="Gela Boca | Alvorada" target="-105.0/0.0/117.0" url="{node9}" tilt="-1.15"/>
+      <hotspot pan="-193.48" description="" id="Point02" distance="5.42767" skinid="ht_node" title="Gela Boca | Alvorada" target="-175.0/0.0/108.2" url="{node1}" tilt="-0.44"/>
+      <hotspot pan="-318.93" description="" id="Point03" distance="4.70347" skinid="ht_node" title="Gela Boca | Alvorada" target="12.0/0.0/117.0" url="{node2}" tilt="0.17"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendtime="1" blendcolor="0x000000" delay="none" enabled="1" type="crossdissolve" softedge="0" zoomoutpause="1" zoomout="0" zoomafteroutfov="40" zoomin="0" zoomspeed="2" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingroll="0" width="2000" levelingpitch="0" height="2000">
+      <level width="2000" preload="0" height="2000" predecode="0"/>
+      <level width="1000" preload="0" height="1000" predecode="0"/>
+      <level width="500" preload="1" height="500" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="200.002" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node1" comment="" author="" latitude="-23.40211012" tags="" streetviewlink="https://www.google.com/maps/@-23.4021101,-51.919123,3a,75y,200h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgICB2KmEYg!2e10" source="" title="Gela Boca | Alvorada" datetime="" heading="200.002" customnodeid="" copyright="" info="" longitude="-51.91912300"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" enabled="1" width="180" wordwrap="1" height="20" border="1" textalpha="1" borderalpha="1" borderradius="1" bordercolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="350.54" description="" id="Point01" distance="5.42767" skinid="ht_node" title="Gela Boca | Alvorada" target="-4.0/0.0/108.2" url="{node5}" tilt="-0.25"/>
+      <hotspot pan="-175.63" description="" id="Point02" distance="14.1843" skinid="ht_node" title="Gela Boca | Alvorada" target="-175.0/0.0/108.2" url="{node3}" tilt="0.06"/>
+      <hotspot pan="-345.5" description="" id="Point03" distance="9.88571" skinid="ht_node" title="Gela Boca | Alvorada" target="0.0/0.0/108.2" url="{node2}" tilt="0.08"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendtime="1" blendcolor="0x000000" delay="none" enabled="1" type="crossdissolve" softedge="0" zoomoutpause="1" zoomout="0" zoomafteroutfov="40" zoomin="0" zoomspeed="2" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingroll="0" width="2000" levelingpitch="0" height="2000">
+      <level width="2000" preload="0" height="2000" predecode="0"/>
+      <level width="1000" preload="0" height="1000" predecode="0"/>
+      <level width="500" preload="1" height="500" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="199.286" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node2" comment="" author="" latitude="-23.40219258" tags="" streetviewlink="https://www.google.com/maps/@-23.4021926,-51.9191592,3a,75y,199.29h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgICB2Kn0Yw!2e10" source="" title="Gela Boca | Alvorada" datetime="" heading="199.286" customnodeid="" copyright="" info="" longitude="-51.91915921"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" enabled="1" width="180" wordwrap="1" height="20" border="1" textalpha="1" borderalpha="1" borderradius="1" bordercolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-146.35" description="" id="Point01" distance="4.70347" skinid="ht_node" title="Gela Boca | Alvorada" target="-164.0/0.0/100.0" url="{node5}" tilt="0.07"/>
+      <hotspot pan="-178.3" description="" id="Point02" distance="9.88571" skinid="ht_node" title="Gela Boca | Alvorada" target="-177.0/0.0/108.2" url="{node1}" tilt="1.77"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendtime="1" blendcolor="0x000000" delay="none" enabled="1" type="crossdissolve" softedge="0" zoomoutpause="1" zoomout="0" zoomafteroutfov="40" zoomin="0" zoomspeed="2" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0" hideabout="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" comment="" author="" copyright="" tags="" title=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
